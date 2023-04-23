@@ -3,15 +3,21 @@
 ## Versions supported
 
 Application version:1.00
+
 Application version:1.11
+
 Application version:1.15
 
 ## Releases supported
 
 Dark Souls 3 Original Edition
+
 CUSA01368 Japan
+
 CUSA03365 Europe
+
 CUSA03388 America
+
 CUSA03434 Australia
 
 Dark Souls 3 The Fire Fades Edition
