@@ -72,6 +72,8 @@ Do not fret as everything works as intended.
 
 - [Goldhen 2.3+](https://github.com/Goldhen/Goldhen) running on a Playstation4 system
 - [Fonts and shaders](https://drive.proton.me/urls/99K883B7XG#5L6jlq0yE3yw) for the developer menu
+- Knowledge on how to make a backup copy of a game
+- Knowledge on how to setup a plugin to run properly
 
 ## Toolchains used
 
