@@ -38,8 +38,11 @@ Besides enabling debug camera when entering a cutscene\
 there is also a way to enable it from the developer menu.\
 By pressing the upper left of the touchpad activates developer menu.\
 Navigating to [SYSTEM] option and press circle.\
+![DS1](https://user-images.githubusercontent.com/131619524/233867743-fedd7544-a640-4241-a498-8297307e7b7a.jpg)\
 Then navigate to [MoveMapStep] and press circle.\
+![DS2](https://user-images.githubusercontent.com/131619524/233867756-cdf3c3d5-d3b9-4cb4-be91-69be8989fdd6.jpg)\
 Finally navigate to Pause and switch from Off to On.\
+![DS3](https://user-images.githubusercontent.com/131619524/233867760-0feb2d8d-9443-40c9-a1a0-ca913042cf8b.jpg)\
 Congrats you enabled the overworld debug camera.\
 Additionally while the debug camera is active all entities willl freeze.\
 Skip is under the pause option which once selected and circle is\
@@ -48,8 +51,10 @@ pressed will unfreeze for a few frames and then freeze again.
 ## TopMenuDebug option
 
 Pressing options button brings up the TopMenu.\
-By moving the highlight to the far right will change the description to debug.\
+By moving the highlight to the far right will change the description to Debug.\
+![DS4](https://user-images.githubusercontent.com/131619524/233867658-c6a80f29-a9d0-44e3-aa32-abad16356454.jpg)\
 By pressing debug option brings a menu with some random ideograms.\
+![DS5](https://user-images.githubusercontent.com/131619524/233867667-b1e46bb9-cb6c-4732-aad2-b1450eaa534b.jpg)\
 Navigating to the indicated option will allow you to fast travel anywhere.
 
 ## RemoDebug function
