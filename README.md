@@ -64,8 +64,7 @@ With RemoDebug you can pause cutscenes at will by pressing triangle
 ## Known Bugs and Issues
 
 If skip function is used while using the overworld debug camera from\
-the developer menu the screen will flash just as if screenshot is taken.
-
+the developer menu the screen will flash just as if screenshot is taken.\
 Do not fret as everything works as intended.
 
 ## Requirements
