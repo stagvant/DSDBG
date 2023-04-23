@@ -43,8 +43,8 @@ Then navigate to [MoveMapStep] and press circle.\
 ![DS2](https://user-images.githubusercontent.com/131619524/233867756-cdf3c3d5-d3b9-4cb4-be91-69be8989fdd6.jpg)\
 Finally navigate to Pause and switch from Off to On.\
 ![DS3](https://user-images.githubusercontent.com/131619524/233867760-0feb2d8d-9443-40c9-a1a0-ca913042cf8b.jpg)\
-Congrats you enabled the overworld debug camera.\
-Additionally while the debug camera is active all entities willl freeze.\
+Congratulations you enabled the overworld debug camera!\
+Additionally while the debug camera is active all entities will freeze.\
 Skip is under the pause option which once selected and circle is\
 pressed will unfreeze for a few frames and then freeze again.
 
