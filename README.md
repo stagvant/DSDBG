@@ -36,7 +36,7 @@
 
 Besides enabling debug camera when entering a cutscene\
 there is also a way to enable it from the developer menu.\
-By pressing the upper left of the touchpad activates developer menu.\
+By pressing the upper left of the touchpad activates it.\
 Navigating to [SYSTEM] option and press circle.\
 ![DS1](https://user-images.githubusercontent.com/131619524/233867743-fedd7544-a640-4241-a498-8297307e7b7a.jpg)\
 Then navigate to [MoveMapStep] and press circle.\
