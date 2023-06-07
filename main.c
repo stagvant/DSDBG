@@ -46,6 +46,22 @@ procrw(0x010C95E4,DS111T,1,1);
 procrw(0x01639ED5,DS111U,1,1);
 procrw(0x0163B6E9,DS111V,1,1);
 procrw(0x01800337,DS111W,1,1);
+procrw(0x010C95C9,DS111X,53,1);
+procrw(0x00FE3883,DS111Y,669,1);
+procrw(0x00FE3B40,DS11ZA,1,1);
+procrw(0x00FE3530,DS11ZB,1,1);
+procrw(0x00FE353D,DS11ZC,1,1);
+procrw(0x00FE360C,DS11ZD,1,1);
+procrw(0x00FE3629,DS11ZE,1,1);
+procrw(0x00FE363E,DS11ZF,1,1);
+procrw(0x00FE34D2,DS11ZG,1,1);
+procrw(0x00FE1EEC,DS11ZH,1,1);
+procrw(0x00FE341C,DS11ZJ,1,1);
+procrw(0x00FE348D,DS11ZK,1,1);
+procrw(0x00FE49F7,DS11ZL,1,1);
+procrw(0x00FE4A24,DS11ZM,1,1);
+procrw(0x00FE4AD4,DS11ZN,1,1);
+procrw(0x00FE4AFD,DS11ZO,1,1);
 }else{
 procrw(0x04121242,verid1,1,0);
 procrw(0x04121246,verid2,1,0);
@@ -74,6 +90,22 @@ procrw(0x010CD514,DS115T,1,1);
 procrw(0x016423E5,DS115U,1,1);
 procrw(0x01643BF9,DS115V,1,1);
 procrw(0x01805BD7,DS115W,1,1);
+procrw(0x010CD4F9,DS115X,53,1);
+procrw(0x00FE7413,DS115Y,669,1);
+procrw(0x00FE76D0,DS15ZA,1,1);
+procrw(0x00FE70C0,DS15ZB,1,1);
+procrw(0x00FE70CD,DS15ZC,1,1);
+procrw(0x00FE719C,DS15ZD,1,1);
+procrw(0x00FE71B9,DS15ZE,1,1);
+procrw(0x00FE71CE,DS15ZF,1,1);
+procrw(0x00FE7062,DS15ZG,1,1);
+procrw(0x00FE5A7C,DS15ZH,1,1);
+procrw(0x00FE6FAC,DS15ZJ,1,1);
+procrw(0x00FE701D,DS15ZK,1,1);
+procrw(0x00FE8587,DS15ZL,1,1);
+procrw(0x00FE85B4,DS15ZM,1,1);
+procrw(0x00FE8664,DS15ZN,1,1);
+procrw(0x00FE868D,DS15ZO,1,1);
 }else{
 procrw(0x0501B2D2,verid1,1,0);
 procrw(0x0501B2D6,verid2,1,0);
@@ -98,7 +130,10 @@ procrw(0x00F1CAF6,DS100P,1,1);
 procrw(0x00AAC3F0,DS100Q,1,1);
 procrw(0x0155DB45,DS100R,1,1);
 procrw(0x0155E209,DS100S,1,1);
-procrw(0x0180A67F,DS100T,1,1);}}}
+procrw(0x0180A67F,DS100T,1,1);
+procrw(0x00E36AC0,DS100U,7,1);
+procrw(0x0213CC0C,DS100V,31,1);
+procrw(0x00AAC335,DS100W,313,1);}}}
 scePthreadExit(NULL);
 return NULL;}
 int32_t attr_module_hidden module_start(size_t argc,const void *args){
